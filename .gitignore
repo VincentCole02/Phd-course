@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.matplotlib/
+data/isic2017/.download-cache/
+results/*
+!results/short-run/
